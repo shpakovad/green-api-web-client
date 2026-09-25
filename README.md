@@ -1,4 +1,4 @@
-# Telegram Web Client (Test Assessment)
+# Telegram Web Client
 
 Пользовательский веб-интерфейс для отправки и получения текстовых сообщений с использованием платформы **Telegram Bot API**.
 
