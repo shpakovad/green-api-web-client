@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.tg-empty{
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -20%, #5eb5f7 0%, transparent 55%),
+    linear-gradient(180deg, #e8f4fc 0%, #d4e8f5 40%, #c5dceb 100%);
+}
+
+.tg-bubble {
+  min-width: 72px;
+}
+
+.tg-bubble-out {
+  box-shadow: 0 1px 0.5px rgba(0, 0, 0, 0.13);
+}
+
+.tg-bubble-in {
+  box-shadow: 0 1px 0.5px rgba(0, 0, 0, 0.13);
+}
